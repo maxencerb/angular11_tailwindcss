@@ -74,7 +74,7 @@ Then go to your **./angular.json** config file and modify as follows (the builde
     ...
   },
 ```
-You're almost done, just type this in the console `npx tailwind init` and head to the global styling file **./src/app/style.scss** and import the tailwind dependencies :
+You're almost done, just type this in the console `npx tailwind init` and head to the global styling file **./src/style.scss** and import the tailwind dependencies :
 ```scss
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
