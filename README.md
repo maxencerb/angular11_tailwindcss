@@ -1,6 +1,6 @@
 # AngularTailwind
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3. This project contains code from the tailwindUI team for test purpose only.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3. This project contains code from the tailwindUI team for test purpose only. Review the full code on [github](https://github.com/maxencerb/angular11_tailwindcss).
 
 ## How to use tailwind in an angular project with Angular CLI 10 to 11 (December 2020)
 
