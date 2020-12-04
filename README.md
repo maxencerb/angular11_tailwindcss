@@ -18,7 +18,7 @@ Then install the dependencies for Tailwind, Postcss and ngx-build-plus (bug on t
 	ng add ngx-build-plus
 **ngx-build-plus** is a custom builder for angular compatible with tailwind. The default builder is not. It will automatically update the *build* and *serve* options in *"./angular.json"*.
 
-Now, in the root folder create a **webpack.config.json** file. Inside, copy the following :
+Now, in the root folder create a **webpack.config.js** file. Inside, copy the following :
 ```js
 module.exports = {
 	  module: {
